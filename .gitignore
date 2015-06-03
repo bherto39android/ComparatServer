@@ -1,0 +1,9 @@
+/.idea
+/.sass-cache
+/dist
+/node
+/node_modules
+/npm-debug.log
+/src/*.iml
+/build
+/ComparatServer.iml
